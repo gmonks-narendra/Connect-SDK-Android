@@ -8,7 +8,7 @@
 	branch = master
 [submodule "modules/firetv"]
 	path = modules/firetv
-	url = https://github.com/ConnectSDK/Connect-SDK-Android-FireTV.git
+	url = https://github.com/gmonks-narendra/Connect-SDK-Android-FireTV.git
     branch = master
 [submodule "modules/Connect-SDK-Android-FireTV"]
 	path = modules/Connect-SDK-Android-FireTV
